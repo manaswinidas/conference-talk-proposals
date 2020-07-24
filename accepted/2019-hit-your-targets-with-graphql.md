@@ -40,4 +40,4 @@ I wish to talk about my work and spread the reach of such diversity-friendly ope
 Manaswini Das is an undergraduate, pursuing Bachelor's in computer science from College of Engineering and Technology, Bhubaneswar, India. She is a former Outreachy intern at Open Humans Foundation. She contributes to open source software and is ambitious of developing futuristic technologies. Her fields of interest include open source and artificial intelligence. Her hobbies include poetry, blogging and basketball. Being a pensive person, she likes diving into the depth of everything that she comes across.
 
 ### Additional Notes
-The timing clashed with DjangoCon Europe 2019, find videos and slides here.
+The timing clashed with DjangoCon Europe 2019, find videos and slides [here](https://2019.djangocon.eu/talks/fetching-data-from-apisgithub-using-django-and-gra/).
